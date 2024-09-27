@@ -9,6 +9,18 @@ import Project5 from '../../assets/images/Project/finder.jpg'
 const projectsData = [
   {
     id: 1,
+    name: 'Generate Password',
+    description: 'Description 3',
+    sourceLink: 'https://github.com/devWonderkind/Generate-Password',
+    liveLink: 'https://lockbyte.netlify.app',
+    preview: Project3,
+    techstack1: '#React',
+    techstack2: '#Tailwind',
+    techstack3: '#API'
+    
+  },
+  {
+    id: 2,
     name: 'Coffeto',
     description: 'Description 1',
     sourceLink: 'https://github.com/devWonderkind/Cofee-Website',
@@ -19,29 +31,7 @@ const projectsData = [
     techstack3: '#Bootstrap'
   },
   {
-    id: 2,
-    name: 'Analog Clock',
-    description: 'Description 2',
-    sourceLink: 'https://github.com/devWonderkind/clock',
-    liveLink: 'https://coder-chahal-clock.netlify.app',
-    preview: Project2,
-    techstack1: '#HTML',
-    techstack2: '#CSS',
-    techstack3: '#JavaScript'
-  },
-  {
     id: 3,
-    name: 'Generate Password',
-    description: 'Description 3',
-    sourceLink: 'https://github.com/devWonderkind/Generate-Password',
-    liveLink: 'https://lockbyte.netlify.app',
-    preview: Project3,
-    techstack1: '#React',
-    techstack2: '#Tailwind',
-    techstack3: '#API'
-  },
-  {
-    id: 4,
     name: 'Lift Simulator',
     description: 'Description 4',
     sourceLink: 'https://github.com/devWonderkind/lift-simulation-',
@@ -51,6 +41,19 @@ const projectsData = [
     techstack2: '#CSS',
     techstack3: '#JavaScript'
   },
+  {
+    
+    id: 4,
+    name: 'Analog Clock',
+    description: 'Description 2',
+    sourceLink: 'https://github.com/devWonderkind/clock',
+    liveLink: 'https://coder-chahal-clock.netlify.app',
+    preview: Project2,
+    techstack1: '#HTML',
+    techstack2: '#CSS',
+    techstack3: '#JavaScript'
+  },
+  
   {
     id: 5,
     name: 'Logo Finder',
