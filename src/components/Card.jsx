@@ -14,7 +14,7 @@ const Card = ({ name, description, sourceLink, liveLink, preview, techstack1, te
               {name} &nbsp; 
               {/* <ArrowUpRight className="h-4 w-4" /> */}
             </h1>
-            <p className="mt-3 text-sm text-gray-600">
+            <p className="mt-3 text-sm text-gray-400">
               {description}
             </p>
             <div className="mt-4">

@@ -10,7 +10,7 @@ const projectsData = [
   {
     id: 1,
     name: 'Generate Password',
-    description: 'Description 3',
+    // description: 'Users can increase the password length according to their needs and include special characters and numbers for added security. The interface is intuitive, ensuring ease of use while generating complex passwords that enhance protection against unauthorized access.',
     sourceLink: 'https://github.com/devWonderkind/Generate-Password',
     liveLink: 'https://lockbyte.netlify.app',
     preview: Project3,
@@ -22,7 +22,7 @@ const projectsData = [
   {
     id: 2,
     name: 'Coffeto',
-    description: 'Description 1',
+    // description: 'Coffeto is a beautifully crafted, responsive landing page for a coffee website, designed to captivate coffee enthusiasts. Built using HTML, CSS, and JavaScript, the site provides a seamless user experience across all devices. The page showcases enticing visuals, smooth animations, and essential information about the brand, making it the perfect gateway for customers to explore premium coffee products.',
     sourceLink: 'https://github.com/devWonderkind/Cofee-Website',
     liveLink: 'https://coffetto-web.netlify.app',
     preview: Project1,
@@ -33,7 +33,7 @@ const projectsData = [
   {
     id: 3,
     name: 'Lift Simulator',
-    description: 'Description 4',
+    // description: 'Description 4',
     sourceLink: 'https://github.com/devWonderkind/lift-simulation-',
     liveLink: 'https://lift-simulater.netlify.app/',
     preview: Project4,
@@ -45,7 +45,7 @@ const projectsData = [
     
     id: 4,
     name: 'Analog Clock',
-    description: 'Description 2',
+    // description: 'Description 2',
     sourceLink: 'https://github.com/devWonderkind/clock',
     liveLink: 'https://coder-chahal-clock.netlify.app',
     preview: Project2,
@@ -57,7 +57,7 @@ const projectsData = [
   {
     id: 5,
     name: 'Logo Finder',
-    description: 'Description 4',
+    // description: 'Description 4',
     sourceLink: 'https://github.com/devWonderkind/Find-Logo',
     liveLink: 'findlogo.netlify.app',
     preview: Project5,
