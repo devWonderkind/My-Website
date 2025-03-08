@@ -2,20 +2,31 @@ import HtmlIcon from '../../assets/images/html.png';
 import CssIcon from '../../assets/images/css.png';    
 import JsIcon from '../../assets/images/js.png';      
 import ReactIcon from '../../assets/images/react.svg';
-import NodeIcon from '../../assets/images/node.svg'
-import BootstrapIcon from '../../assets/images/bootstrap.png'
-import CIcon from '../../assets/images/c.svg'
-import ScssIcon from '../../assets/images/sass.png'
-import TailwindIcon from '../../assets/images/tailwind.svg'
+import NodeIcon from '../../assets/images/node.svg';
+import BootstrapIcon from '../../assets/images/bootstrap.png';
+import CIcon from '../../assets/images/c.svg';
+import ScssIcon from '../../assets/images/sass.png';
+import TailwindIcon from '../../assets/images/tailwind.svg';
+import ExpressJS from '../../assets/images/express.png';
+import MongoDBIcon from '../../assets/images/mongoo.png';
+import Sql from '../../assets/images/sql.png'
+import Firebase from '../../assets/images/firebase.png'
+import Git from '../../assets/images/git.png'
+
 
 export function Skill() {
   const skills = [
     { name: 'React', icon: ReactIcon },
     { name: 'JavaScript', icon: JsIcon },
+    { name: 'Tailwind', icon: TailwindIcon},
+    { name: 'ExpressJS', icon: ExpressJS },
+    {name: 'MongoDB', icon: MongoDBIcon },
+    {name: 'SQL', icon: Sql},
     { name: 'HTML', icon: HtmlIcon },
     { name: 'CSS', icon: CssIcon },
-    { name: 'Tailwind', icon: TailwindIcon},
     { name: 'Bootstrap', icon: BootstrapIcon },
+    {name: 'Firebase', icon: Firebase},
+    {name: 'Git', icon: Git},
     {name: 'Sass', icon: ScssIcon},
     { name: 'Node', icon: NodeIcon },
     {name: 'C', icon: CIcon}
