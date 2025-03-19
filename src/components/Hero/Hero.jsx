@@ -12,7 +12,7 @@ export function Hero() {
       </h1>
       
       <p className="mt-8 text-2xl text-gray-500 underline-offset-2">
-        FrontEnd Developer | Open Source Contributor
+        Fullstack Developer | Open Source Contributor
       </p>
       <p className='text-xl mt-4 text-white md:text-2xl w-full md:w-auto mb-6 md:mb-0'>
         I am Aakanksha Chahal, a front-end developer with experience in building responsive and optimized sites.
