@@ -5,19 +5,19 @@ import Project2 from '../../assets/images/Project/clockP.jpg';
 import Project3 from '../../assets/images/Project/pwdgene.jpg';
 import Project4 from '../../assets/images/Project/LiftSimulator.jpg';
 import Project5 from '../../assets/images/Project/finder.jpg';
-// import Project6 from '../../assets/images/Project/bot.png';
+import Project6 from '../../assets/images/Project/gabruDiChaap.png';
 const projectsData = [
-  // {
-  //   id:1,
-  //   name: 'Student Assistance Chatbot',
-  //   sourceLink:'',
-  //   liveLink:'',
-  //   preview:Project6,
-  //    techstack1: '#React',
-  //   techstack2: '#ExpressJS',
-  //   techstack3: '#NodeJS'
+  {
+    id:1,
+    name: 'Gabru Di Chaap - Restaurent Website',
+    sourceLink:'',
+    liveLink:'https://gabrudichaap.com/',
+    preview:Project6,
+     techstack1: '#Javascript',
+    techstack2: '#HTML',
+    techstack3: '#CSS'
 
-  // },
+  },
   {
     id: 1,
     name: 'Generate Password',
